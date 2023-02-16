@@ -1,0 +1,141 @@
+.navbar {
+    background-color:rgb(137, 86, 185) !important;
+}
+.nav-link{
+    color: white !important;
+}
+.navbar-brand{
+    color: white !important;
+}
+.main{
+    display: flex !important;
+    color: blueviolet;
+    align-items: center !important;
+    justify-content: center !important;
+    padding-top: 10% !important;
+    border: none !important;
+}
+.card h5{
+   font-size: 40px;
+   justify-content: center !important;
+   align-items: center !important;
+}
+.card h6{
+    font-size: 30px;
+    color: rgb(128, 62, 189) !important;
+    justify-content: center !important;
+    align-items: center !important;
+ }
+ .singleComment{
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: rgb(125, 61, 184);
+    border: 2px solid rgb(112, 40, 179);
+    color: white;
+    /* display: flex;
+    flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+    padding-top: 20px ;
+ }
+ .singlePost{
+    margin-top: 20px;
+    border-radius: 20px;
+    background-color: rgb(149, 70, 222);
+    border: 2px solid rgb(112, 40, 179);
+    color: white;
+    /* display: flex;
+    flex-direction: column; */
+    align-items: center;
+    justify-content: center;
+    padding-left: 30px;
+    padding-top: 20px ;
+ }
+ .mainUser{
+    margin-top: 10px;
+    border-radius: 20px;
+    background-color: rgb(149, 70, 222);
+    border: 2px solid rgb(112, 40, 179);
+    color: white;
+    display: flex;
+    /* flex-direction: column;   */
+     align-items: center;  
+     justify-content: center;  
+    padding-left: 30px;
+    padding-top: 15px ;
+ }
+ .main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+
+ }
+ .round{
+   margin-top: 0px;
+   margin-bottom: 20px;
+   /* margin: 10px; */
+   /* padding: 7px; */
+   width: 50%;
+   align-items: center;
+   border-radius: 80px;
+
+ }
+.card{
+   border: none !important;
+}
+
+.heading{
+   /* justify-content: center !important;
+   align-items: center !important; */
+   color: rgb(114, 46, 177);
+   display: flex;
+   margin-top: 70px;
+   margin-left: 450px;
+
+}
+.btn-dark{
+   background-color: rgb(89, 38, 137) !important;
+   border: 2px solid rgb(61, 23, 97);
+   cursor: pointer;
+   border-radius: 15px;
+   color: white;
+   
+}
+.btn button{
+   background-color: rgb(70, 18, 119);
+   color: white;
+   border-radius: 15px;
+   border: 2px solid rgb(61, 23, 97);
+   margin-left: 20px ;
+   margin-top: 0px;
+   font-size: 17px;
+}
+
+.main h3{
+   color: rgb(113, 46, 175);
+}
+.mainDiv{
+   margin-top: 0px;
+   border-radius: 20px;
+   background-color: rgb(149, 70, 222);
+   border: 2px solid rgb(112, 40, 179);
+   color: white;
+   display: flex;
+   flex-direction: column;
+   align-items: center;   
+   /* justify-content: center;   */
+   padding-left: 25px;
+   padding-top: 18px ;
+}
+.userImg{
+   display: flex;
+   justify-content: center;
+   
+}
+
+
+
+
